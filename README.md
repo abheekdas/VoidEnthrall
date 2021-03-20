@@ -1,3 +1,24 @@
+## Run Locally
+```
+> Clone the repo
+    >> For Windows: Git Bash
+    >> For Linux: Terminal
+    >> git clone Link in the code button above
+
+>Change the location to source code Folder
+    >> cd my-app
+
+> Install Dependencies
+    >>npm install
+
+> Start the server
+    >> npm start
+
+```
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
